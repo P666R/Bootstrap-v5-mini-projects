@@ -1,0 +1,6 @@
+@media (max-width: 767px) {
+  .cc-user-menu {
+    justify-content: center !important;
+    margin-top: 20px;
+  }
+}
